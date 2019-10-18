@@ -44,7 +44,6 @@ return [
             'port' => '3306',
             'strict' => false,
         ],
-
     ],
 
     'migrations' => 'migrations',
